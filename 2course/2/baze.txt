@@ -1,0 +1,4 @@
+ABC123 Ivanov I.I. Mersedes 01.01.2022 ul.Linina g.Moskva 12.4 3000
+XYZ987 Petrov P.P. Toyota 02.01.2022 pr.Pobedi g.Sankt-Peterburg 12.3 500
+DEF456 Sidorov S.S. Honda 03.01.2022 ul.Baikalskaia g.Moskva 12.5 500
+JKL321 Kozlov K.V. BMV 01.01.2022 ul.Arbat g.Moskva 12.7 30000
